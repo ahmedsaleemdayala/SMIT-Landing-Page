@@ -2,10 +2,10 @@
 import React from 'react';
 import Button from '../Shared/Button';
 import SaylaniLogo from '../assets/saylani_logo.webp';
-import laptopIcon from '../assets/laptop.png';
-import globeIcon from '../assets/globe.png';
-import right from '../assets/arrow_right.png';
-import left from '../assets/arrow_left.png';
+import laptopIcon from '../assets/laptop.PNG';
+import globeIcon from '../assets/globe.PNG';
+import right from '../assets/arrow_right.PNG';
+import left from '../assets/arrow_left.PNG';
 
 const HeroSection = () => {
   return (
@@ -20,7 +20,7 @@ const HeroSection = () => {
       {/* Content */}
       <div className="z-10 max-w-4xl">
         <h1 className="text-4xl md:text-6xl font-bold text-[#202124] leading-tight">
-          Building Pakistan's <br />n
+          Building Pakistan's <br />
           <span className="text-[#0779bf]">Tech Future</span>
         </h1>
         
