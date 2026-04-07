@@ -20,7 +20,7 @@ const HeroSection = () => {
       {/* Content */}
       <div className="z-10 max-w-4xl">
         <h1 className="text-4xl md:text-6xl font-bold text-[#202124] leading-tight">
-          Building Pakistan's <br />
+          Building Pakistan's <br />n
           <span className="text-[#0779bf]">Tech Future</span>
         </h1>
         
