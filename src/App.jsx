@@ -10,7 +10,7 @@ import Studentreviews from "./Layout/Studentsreviews";
 import CampusesSection from "./Layout/CampusesSection";
 import AlumniSection from "./Layout/AlumniSection";    
 import VisionSection from "./Layout/VisionSection";
-import Vision from "./Layout/vision";
+import Vision from "./Layout/Vision";
 import Footer from "./Shared/Footer";
 
 const App = () => {
